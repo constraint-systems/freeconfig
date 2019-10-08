@@ -2,7 +2,7 @@
 
 Freeconfig lets you push image pixels around in blocks.
 
-<img src='https://raw.githubusercontent.com/constraint-systems/moire/master/static/freeconfig.gif' width="600"/>
+<img src='https://raw.githubusercontent.com/constraint-systems/freeconfig/master/static/freeconfig.gif' width="600"/>
 
 https://freeconfig.constraint.systems/
 
