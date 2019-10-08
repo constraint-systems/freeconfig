@@ -20,7 +20,7 @@ class MyDocument extends Document {
             name="description"
             content="Freeconfig lets you push image pixels around like blocks."
           />
-          <meta property="og:title" content="Moire" />
+          <meta property="og:title" content="Freeconfig" />
           <meta
             property="og:description"
             content="Freeconfig lets you push image pixels around in blocks."
