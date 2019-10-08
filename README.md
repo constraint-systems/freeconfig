@@ -6,4 +6,4 @@ Freeconfig lets you push image pixels around in blocks.
 
 https://freeconfig.constraint.systems/
 
-File handling inspired by Hundred Rabbits' image-cropping tool [Moogle](https://github.com/hundredrabbits/moogle).
+File-handling inspired by Hundred Rabbits' image-cropping tool [Moogle](https://github.com/hundredrabbits/moogle).
