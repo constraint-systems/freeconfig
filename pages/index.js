@@ -118,7 +118,12 @@ let Home = () => {
         this.removeEventListener('click', revokeURL);
       };
 
-      ctx.canvas.toBlob(function(blob) {
+      let cropped = document.createElement('canvas');
+      let crtx = cropped.getContext('2d');
+      cropped.width = c.offsetWidth * dpr - padding * 2 * dpr;
+      cropped.height = c.offsetHeight * dpr - padding * 2 * dpr;
+      crtx.drawImage(c, -padding * dpr, -padding * dpr);
+      crtx.canvas.toBlob(function(blob) {
         link.setAttribute('download', 'freeconfig.png');
         link.setAttribute('href', URL.createObjectURL(blob));
         link.addEventListener('click', revokeURL);
