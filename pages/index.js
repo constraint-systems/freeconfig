@@ -639,7 +639,16 @@ let Home = () => {
         <div style={{ marginBottom: '0.75rem' }}>
           {KeyTip('r', color)} reset image&nbsp; {KeyTip('e', color)} save as
           png&nbsp; {KeyTip('b', color)}{' '}
-          {color === 'dark' ? 'light bg' : 'dark bg'}
+          {color === 'dark' ? 'light bg' : 'dark bg'}&nbsp; {KeyTip('?', color)}{' '}
+          help
+        </div>
+        <div>
+          <a
+            href="https://github.com/constraint-systems/freeconfig"
+            target="_blank"
+          >
+            View source↗
+          </a>
         </div>
       </div>
       {help ? null : (
