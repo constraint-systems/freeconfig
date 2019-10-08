@@ -582,7 +582,7 @@ let Home = () => {
         }}
       >
         <div style={{ marginBottom: '0.75rem', maxWidth: '60ch' }}>
-          Freeconfig let's you push image pixels around in blocks.
+          Freeconfig lets you push image pixels around in blocks.
         </div>
         <div style={{ marginBottom: '0.375rem', maxWidth: '60ch' }}>Mode</div>
         <div style={{ marginBottom: '0.75rem' }}>

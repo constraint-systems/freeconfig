@@ -18,12 +18,12 @@ class MyDocument extends Document {
           <meta name="theme-color" content="#000000" />
           <meta
             name="description"
-            content="Freeconfig let's you push image pixels around like blocks."
+            content="Freeconfig lets you push image pixels around like blocks."
           />
           <meta property="og:title" content="Moire" />
           <meta
             property="og:description"
-            content="Freeconfig let's you push image pixels around in blocks."
+            content="Freeconfig lets you push image pixels around in blocks."
           />
           <meta
             property="og:image"
