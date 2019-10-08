@@ -31,7 +31,7 @@ class MyDocument extends Document {
           />
           <meta
             property="og:url"
-            content="https://freedconfig.constraint.systems"
+            content="https://freeconfig.constraint.systems"
           />
           <meta name="twitter:card" content="summary_large_image" />
         </Head>
